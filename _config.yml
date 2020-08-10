@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 encoding: UTF-8
+exclude:
+  - bnews/制作git禁闻镜像.md
+  - bnews/syncnews.bat
+  - bnews/syncnews.sh
